@@ -7,7 +7,8 @@ This is the Project related to Salesforce-Developer-Catalyst-Self-Learning-Super
 
 
 ## Trailhead Profile showing all badges :
-![screencapture-trailblazer-me-id-2022-06-14-10_15_12](https://user-images.githubusercontent.com/100104826/173495170-ccc29b7b-b89b-4d5b-92b6-de8ce7bd28b9.png)
+![main pic](https://user-images.githubusercontent.com/100104826/173877398-d68b1bbd-9d85-4647-8d6f-4f501425db72.png)
+
 
 ## Developer Catalyst SuperBadges :
 ![main](https://user-images.githubusercontent.com/100104826/173495649-d5279b49-178a-4447-a41d-bfe405c24246.png)
